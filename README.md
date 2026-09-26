@@ -4,7 +4,7 @@ An interactive browser-based audio visualization built with JavaScript and p5.js
 
 ## Launch Website
 
-[Open the Sound Reactive Bubble](https://landonbotelho.github.io/SoundReactiveBubbleWebsite/)
+[Open the Sound Reactive Bubble](https://landonbotelho.github.io/soundReactiveBubbleWebsite/)
 
 > Microphone permission is required for the audio-reactive functionality.
 
